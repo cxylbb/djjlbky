@@ -1,0 +1,72 @@
+星狐云开源协议
+版权所有 (c) [2026] [吾爱]
+
+1. 定义
+1.1 **作品**：指本协议附带的源代码、二进制程序、文档、静态资源及其他全部相关材料。
+1.2 **许可方**：作品的著作权人。
+1.3 **被许可方**：获取、查阅、使用本作品的自然人或法人。
+
+2. 许可授予
+许可方授予被许可方**全球、非独占、不可转让、不可再授权、可撤销**的有限许可：
+仅允许**个人内部非商业原样查看、学习、本地自用**本作品，不得超出本条范围。
+
+3. 严格限制
+被许可方**不得**执行以下任何行为：
+1. 修改、改编、重构、二次开发、制作衍生作品；
+2. 出售、出租、授权、转让、贩卖本作品（含原版与任何修改版本）；
+3. 公开发布、分享、分发、上传、转发本作品副本给任何第三方；
+4. 将本作品用于任何商业场景、盈利项目；
+5. 逆向工程、反编译、反汇编、提取核心逻辑用于其他项目。
+
+4. 著作权归属
+作品的全部著作权、知识产权永久归许可方所有。本协议**不转移作品所有权**。
+
+5. 协议终止
+一旦被许可方违反本协议任意条款，本许可自动立即终止，被许可方必须销毁全部所持有的作品副本。
+
+6. 免责声明
+作品按**现状原样提供**，不提供任何明示或默示担保，包括但不限于可用性、安全性、无缺陷。许可方不承担任何因使用本作品产生的直接、间接损失。
+
+7. 适用法律
+本协议适用中华人民共和国法律。如发生争议，双方协商解决，协商不成，由许可方所在地人民法院管辖。
+
+ 8. 其他
+本协议为完整约定，替代之前所有口头或书面沟通。若本协议部分条款无效，其余条款继续有效。
+
+> 使用本作品即代表你已完整阅读、理解并同意本协议全部条款。
+
+Copyright (c) [2026] [Wuai]
+
+1. Definitions
+1.1 **Work**: means the source code, binary programs, documents, static assets and all related materials accompanying this License.
+1.2 **Licensor**: the copyright owner of the Work.
+1.3 **Licensee**: any natural person or legal entity who obtains, views or uses the Work.
+
+2. Grant of License
+The Licensor grants to the Licensee a **worldwide, non-exclusive, non-transferable, non-sublicensable, revocable limited license**:
+Only for **personal internal non-commercial viewing, study and local use of the Work in its original unmodified form**. No rights beyond this section are granted.
+
+3. Restrictions
+The Licensee **SHALL NOT** do any of the following:
+1. Modify, adapt, refactor, redevelop or create derivative works based on the Work;
+2. Sell, rent, sublicense, transfer or resell the Work (original or any modified version);
+3. Publish, share, distribute, upload or forward copies of the Work to any third party;
+4. Use the Work for any commercial or revenue-generating purposes;
+5. Reverse-engineer, decompile, disassemble, or extract core logic for other projects.
+
+4. Ownership
+All copyright and intellectual property rights of the Work remain with the Licensor permanently. This License **does not transfer ownership of the Work**.
+
+5. Termination
+This License terminates automatically immediately upon any breach. Licensee shall destroy all copies of the Work in possession.
+
+6. Disclaimer of Warranty
+THE WORK IS PROVIDED ON AN "AS IS" BASIS. NO EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO usability, security and defect-free. The Licensor shall not be liable for any direct or indirect damages arising from use of the Work.
+
+7. Governing Law
+This License is governed by the laws of the People’s Republic of China. Any dispute shall be settled by negotiation; if negotiation fails, the dispute shall be under the jurisdiction of the people’s court where the Licensor resides.
+
+8. Miscellaneous
+This License constitutes the entire agreement and supersedes all prior oral or written communications. If any clause is invalid, the remaining clauses shall remain in full force.
+
+> By using the Work, you acknowledge reading, understanding and agreeing to all terms of this License.
