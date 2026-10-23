@@ -1,72 +1,127 @@
-星狐云开源协议
-版权所有 (c) [2026] [吾爱]
+星狐云许可协议
 
-1. 定义
-1.1 **作品**：指本协议附带的源代码、二进制程序、文档、静态资源及其他全部相关材料。
-1.2 **许可方**：作品的著作权人。
-1.3 **被许可方**：获取、查阅、使用本作品的自然人或法人。
+版权所有 © 2026 吾爱
 
-2. 许可授予
-许可方授予被许可方**全球、非独占、不可转让、不可再授权、可撤销**的有限许可：
-仅允许**个人内部非商业原样查看、学习、本地自用**本作品，不得超出本条范围。
+> 
+> 重要提示：**获取、查阅、下载、使用本作品，即代表您已完整阅读、理解并自愿接受本协议全部条款。若不接受本协议，您不得获取、使用、保存本作品。**
 
-3. 严格限制
-被许可方**不得**执行以下任何行为：
+第一条 定义
+
+1.1 **作品**：指本协议随同发布的源代码、二进制程序、配置文件、文档、静态资源、脚本及其他全部相关材料，包括著作权人对核心代码、技术代码施加加密、混淆等技术保护措施后的代码。
+1.2 **许可方**：本作品著作权人（吾爱）。
+1.3 **被许可方**：获取、查阅、保存、使用本作品的自然人、法人或非法人组织。
+1.4 **衍生作品**：基于本作品全部或部分内容，通过修改、改编、重构、二次开发、翻译、移植等方式产生的任何作品，无论是否完整、是否独立发布。
+
+第二条 许可授予
+
+许可方授予被许可方**全球、非独占、不可转让、不可再授权、可撤销、免费**的有限许可：
+**仅限个人内部、非商业、原样查看、学习、本地自用本作品。**
+本协议**未明确授予的全部著作权权利，均保留在许可方手中，被许可方不得行使**。
+
+第三条 禁止行为
+
+被许可方不得实施下列任一行为：
+
 1. 修改、改编、重构、二次开发、制作衍生作品；
-2. 出售、出租、授权、转让、贩卖本作品（含原版与任何修改版本）；
-3. 公开发布、分享、分发、上传、转发本作品副本给任何第三方；
-4. 将本作品用于任何商业场景、盈利项目；
-5. 逆向工程、反编译、反汇编、提取核心逻辑用于其他项目。
+2. 出售、出租、授权、转让、贩卖、许可第三方使用本作品（原版或任何修改版本）；
+3. 公开发布、分享、分发、上传、转发、镜像本作品副本给任何第三方；
+4. 将本作品用于任何商业场景、盈利项目、付费服务；
+5. 逆向工程、反编译、反汇编、提取核心逻辑用于其他项目；
+6. 规避、破解、移除、绕过许可方对核心代码、技术代码设置的加密、混淆、验证等技术保护措施。
 
-4. 著作权归属
-作品的全部著作权、知识产权永久归许可方所有。本协议**不转移作品所有权**。
+> 
+> 例外：**经许可方书面同意后方可分发副本的，所有分发副本（含源码分发）必须完整保留原作者署名、版权声明、本协议全文，不得删除、篡改、遮蔽原作者信息。未经许可，任何形式倒卖、分发均属于侵权。**
 
-5. 协议终止
-一旦被许可方违反本协议任意条款，本许可自动立即终止，被许可方必须销毁全部所持有的作品副本。
+第四条 知识产权归属
 
-6. 免责声明
-作品按**现状原样提供**，不提供任何明示或默示担保，包括但不限于可用性、安全性、无缺陷。许可方不承担任何因使用本作品产生的直接、间接损失。
+4.1 本作品全部著作权、知识产权永久归许可方所有。本协议**不转移作品所有权**。
+4.2 **所有衍生作品、二改版本的全部知识产权，均归许可方独占所有**。
+4.3 许可方有权自主选择对核心代码、技术代码实施加密、混淆、授权校验等技术保护措施，该加密、保护措施合法有效，不影响本协议效力。
+4.4 被许可方认可：许可方对原版、所有衍生 / 二改版本享有完整著作权。一旦发生侵权，许可方有权依法追究全部法律责任，包括但不限于请求停止侵害、赔礼道歉、赔偿经济损失、承担维权合理开支（公证费、律师费、取证费、诉讼费等）。
 
-7. 适用法律
-本协议适用中华人民共和国法律。如发生争议，双方协商解决，协商不成，由许可方所在地人民法院管辖。
+第五条 协议终止
 
- 8. 其他
-本协议为完整约定，替代之前所有口头或书面沟通。若本协议部分条款无效，其余条款继续有效。
+5.1 被许可方一旦违反本协议任意条款，本许可**自动立即终止**，无需许可方另行通知。
+5.2 许可终止后，被许可方必须立即销毁、删除全部所持有的本作品所有副本（含本地存储、云盘、备份）。
+5.3 协议终止**不影响许可方就侵权行为主张赔偿、追究法律责任**。
 
-> 使用本作品即代表你已完整阅读、理解并同意本协议全部条款。
+第六条 免责声明
 
-Copyright (c) [2026] [Wuai]
+作品按**现状原样（AS IS）**提供，许可方不提供任何明示或默示担保，包括但不限于可用性、稳定性、安全性、无缺陷、适配性。许可方不对任何直接、间接、附带、衍生损失承担赔偿责任。
+
+第七条 适用法律与争议解决
+
+7.1 本协议适用**中华人民共和国法律**。
+7.2 双方发生争议，优先协商解决；协商不成，**由许可方住所地人民法院管辖**。
+
+第八条 其他
+
+8.1 本协议构成双方完整约定，替代此前所有口头、书面沟通。
+8.2 本协议部分条款被认定无效的，其余条款继续有效。
+
+> 
+> 获取、查阅、下载、使用本作品，即代表您已完整阅读、理解并同意本协议全部条款。
+
+StarFox Cloud License
+
+Copyright © 2026 Wuai
+
+> 
+> IMPORTANT NOTICE: By obtaining, viewing, downloading or using the Work, you acknowledge that you have fully read, understood and voluntarily accept all terms of this License. If you do not accept these terms, you must not obtain, use or store the Work.
 
 1. Definitions
-1.1 **Work**: means the source code, binary programs, documents, static assets and all related materials accompanying this License.
-1.2 **Licensor**: the copyright owner of the Work.
-1.3 **Licensee**: any natural person or legal entity who obtains, views or uses the Work.
+
+1.1 **Work**: means the source code, binary programs, configuration files, documentation, static assets, scripts and all related materials distributed together with this License, including core or technical code encrypted or obfuscated with technical protection measures applied by the Licensor.
+1.2 **Licensor**: copyright owner of the Work (Wuai).
+1.3 **Licensee**: any natural person, legal entity or unincorporated organization that obtains, views, stores or uses the Work.
+1.4 **Derivative Work**: any work created by modifying, adapting, refactoring, redeveloping, translating or porting all or part of the Work, whether partial or fully released.
 
 2. Grant of License
-The Licensor grants to the Licensee a **worldwide, non-exclusive, non-transferable, non-sublicensable, revocable limited license**:
-Only for **personal internal non-commercial viewing, study and local use of the Work in its original unmodified form**. No rights beyond this section are granted.
 
-3. Restrictions
-The Licensee **SHALL NOT** do any of the following:
+The Licensor grants to the Licensee a **worldwide, non-exclusive, non-transferable, non-sublicensable, revocable, royalty-free limited license**:
+**Only for personal internal, non-commercial viewing, study and local use of the Work in its original unmodified form.**
+**All copyright rights not expressly granted in this License are reserved by the Licensor, and the Licensee shall not exercise such rights.**
+
+3. Prohibited Conduct
+
+The Licensee SHALL NOT do any of the following:
+
 1. Modify, adapt, refactor, redevelop or create derivative works based on the Work;
-2. Sell, rent, sublicense, transfer or resell the Work (original or any modified version);
-3. Publish, share, distribute, upload or forward copies of the Work to any third party;
-4. Use the Work for any commercial or revenue-generating purposes;
-5. Reverse-engineer, decompile, disassemble, or extract core logic for other projects.
+2. Sell, rent, sublicense, transfer, resell or authorize third parties to use the Work (original or any modified version);
+3. Publish, share, distribute, upload, forward or mirror copies of the Work to any third party;
+4. Use the Work for any commercial, revenue-generating or paid service scenarios;
+5. Reverse-engineer, decompile, disassemble or extract core logic for other projects;
+6. Circumvent, crack, remove or bypass encryption, obfuscation, verification and other technical protection measures applied by the Licensor to core or technical code.
 
-4. Ownership
-All copyright and intellectual property rights of the Work remain with the Licensor permanently. This License **does not transfer ownership of the Work**.
+> 
+> Exception: If distribution of copies is permitted by written consent of the Licensor, **all distributed copies (including source code distribution) must fully retain original author attribution, copyright notice and full text of this License. Original author information shall not be deleted, altered or obscured. Resale or distribution without permission constitutes infringement.**
+
+4. Intellectual Property Ownership
+
+4.1 All copyright and intellectual property rights of the Work remain with the Licensor permanently. This License **does not transfer ownership of the Work**.
+4.2 **All intellectual property rights of any derivative works or modified versions shall be exclusively owned by the Licensor.**
+4.3 The Licensor reserves the right to encrypt, obfuscate or add authorization verification and other technical protection measures to core and technical code. Such protection measures are legally valid and shall not invalidate this License.
+4.4 The Licensee acknowledges that the Licensor holds full copyright over the original Work and all derivative / modified versions. In case of infringement, the Licensor reserves the right to pursue all legal remedies, including injunction, apology, compensation for economic losses and reimbursement of reasonable legal costs (notarization fees, attorney fees, evidence collection fees, litigation fees, etc.).
 
 5. Termination
-This License terminates automatically immediately upon any breach. Licensee shall destroy all copies of the Work in possession.
+
+5.1 This License **terminates automatically immediately** upon any breach by the Licensee, no separate notice from the Licensor is required.
+5.2 After termination, the Licensee shall immediately destroy and delete all copies of the Work in possession (including local storage, cloud backups and archives).
+5.3 Termination **does not prejudice the Licensor’s right to claim damages and pursue legal liability for infringement.**
 
 6. Disclaimer of Warranty
-THE WORK IS PROVIDED ON AN "AS IS" BASIS. NO EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO usability, security and defect-free. The Licensor shall not be liable for any direct or indirect damages arising from use of the Work.
 
-7. Governing Law
-This License is governed by the laws of the People’s Republic of China. Any dispute shall be settled by negotiation; if negotiation fails, the dispute shall be under the jurisdiction of the people’s court where the Licensor resides.
+THE WORK IS PROVIDED ON AN "AS IS" BASIS. The Licensor makes no express or implied warranties, including but not limited to usability, stability, security and defect-free. The Licensor shall not be liable for any direct, indirect, incidental or consequential damages.
+
+7. Governing Law and Dispute Resolution
+
+7.1 This License is governed by the laws of the People’s Republic of China.
+7.2 Any dispute shall first be settled by negotiation. If negotiation fails, the dispute shall be under the jurisdiction of the people’s court where the Licensor resides.
 
 8. Miscellaneous
-This License constitutes the entire agreement and supersedes all prior oral or written communications. If any clause is invalid, the remaining clauses shall remain in full force.
 
-> By using the Work, you acknowledge reading, understanding and agreeing to all terms of this License.
+8.1 This License constitutes the entire agreement and supersedes all prior oral or written communications.
+8.2 If any clause is found invalid, the remaining clauses shall remain in full force.
+
+> 
+> By obtaining, viewing, downloading or using the Work, you acknowledge that you have fully read, understood and agreed to all terms of this License.
